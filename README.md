@@ -2,13 +2,17 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
-<p align="center">
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=vue-dark)](https://git.io/streak-stats)
-</p>
-
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=vue-dark" />
+</p>
+
+## 🌐 Socials:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,react,docker,c,vim" />
+  </a>
 </p>
 
 - 🔭 I’m currently working on ...
