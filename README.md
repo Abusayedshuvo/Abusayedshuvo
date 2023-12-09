@@ -6,7 +6,7 @@
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=blue-navy" /> 
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=blue-navy" /> 
 </p>
 
 # 💻 Tech Stack:
