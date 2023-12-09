@@ -2,7 +2,9 @@
 
 ## :chart_with_upwards_trend: Current Stats
 
+<p align="center">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=vue-dark)](https://git.io/streak-stats)
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
