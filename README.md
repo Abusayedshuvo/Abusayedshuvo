@@ -1,5 +1,5 @@
  <a href="https://abusayedshuvo.com">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui" />
+    <img src="https://raw.githubusercontent.com/Abusayedshuvo/Abusayedshuvo/main/00.jpg" />
   </a>
 
 ## :chart_with_upwards_trend: Current Stats
