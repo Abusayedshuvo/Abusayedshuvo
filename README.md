@@ -10,9 +10,9 @@
 ## 🌐 Socials:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,react,docker,c,vim" />
-  </a>
+  <a href="https://abusayedshuvo.com">
+    <img src="https://skillicons.dev/icons?react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui " />
+  </a> 
 </p>
 
 - 🔭 I’m currently working on ...
