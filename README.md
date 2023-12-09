@@ -7,18 +7,20 @@
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Abusayedshuvo&theme=vue-dark" />
 </p>
 
-## 🌐 Socials:
+# 💻 Tech Stack:
 
-<p align="center">
-  <a href="https://abusayedshuvo.com">
-    <img src="https://skillicons.dev/icons?react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui " />
-  </a> 
-</p>
 <p align="center">
   <a href="https://abusayedshuvo.com">
     <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui" />
   </a>
 </p>
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
+/>
+
+<i class="ci ci-redis ci-3x"></i>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
