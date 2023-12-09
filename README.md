@@ -1,4 +1,6 @@
-### Hi there 👋
+ <a href="https://abusayedshuvo.com">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui" />
+  </a>
 
 ## :chart_with_upwards_trend: Current Stats
 
@@ -15,14 +17,7 @@
   </a>
 </p>
 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.3/src/app/ci.min.css"
-/>
-
-<i class="ci ci-redis ci-3x"></i>
-<i class="ci ci-spotify ci-2x"></i>
-<i class="ci ci-git ci-md"></i>
+## :eyes: Current overview
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
