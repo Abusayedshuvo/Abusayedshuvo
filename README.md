@@ -14,6 +14,11 @@
     <img src="https://skillicons.dev/icons?react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui " />
   </a> 
 </p>
+<p align="center">
+  <a href="https://abusayedshuvo.com">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,css,nodejs,js,materialui" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
