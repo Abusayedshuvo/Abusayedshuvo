@@ -21,6 +21,8 @@
 />
 
 <i class="ci ci-redis ci-3x"></i>
+<i class="ci ci-spotify ci-2x"></i>
+<i class="ci ci-git ci-md"></i>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
