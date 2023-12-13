@@ -1,5 +1,5 @@
  <a href="https://abusayedshuvo.com">
-    <img src="https://raw.githubusercontent.com/Abusayedshuvo/Abusayedshuvo/main/00.jpg" />
+    <img src="https://raw.githubusercontent.com/Abusayedshuvo/Abusayedshuvo/main/00.png" />
   </a>
 
 ## :chart_with_upwards_trend: Current Stats
